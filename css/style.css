@@ -1,0 +1,30 @@
+.flex {
+  display: block;
+  margin: 25px;
+}
+.flex1 {
+  display: flex;
+  padding-top: 35px;
+  background-image: url(../img/406241-animegirl-wallpaper.png);
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: solid blueviolet;
+  width: 500px;
+  margin: auto;
+}
+
+li {
+  color: rgb(255, 0, 179);
+  justify-content: center;
+  margin: 20px 0;
+  text-decoration-line: none
+}
+
+input, textarea{
+  margin: 10px 0;
+}
+ul li{
+   text-decoration-line: none
+}
