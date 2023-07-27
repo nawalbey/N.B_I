@@ -16,13 +16,14 @@
                 <input type="text" id="name" name="user_name" />
             </li>
             <li>
-                <label for="mail">last name&nbsp;:</label><br>
-                <input type="email" id="mail" name="user_mail" />
+                <label for="lastName">last name&nbsp;:</label><br>
+                <input type="text" id="lastName" name="user_lastName" />
             </li>
             <li>
-                <label for="msg">E-mail&nbsp;:</label><br>
-                <textarea id="msg" name="user_message"></textarea>
+                <label for="email">E-mail&nbsp;:</label><br>
+                <input type="email">
             </li>
+            <input type="submit" class="submit">
         </ul>
 
     </form>
